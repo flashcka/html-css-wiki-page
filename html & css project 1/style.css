@@ -1,0 +1,95 @@
+body {
+      background-image: url(https://pibig.info/uploads/posts/2022-12/1670045635_1-pibig-info-p-chernoe-zvezdnoe-nebo-oboi-oboi-1.jpg);
+      background-repeat: no-repeat fixed;
+      background-size: contain;
+      background-position: center;
+}
+
+.top_img {
+      width: 100%;
+      height: 400px;
+}
+
+div {
+      background-color: #3b3b3b;
+      width: 70%;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 18px;
+      font-weight: 400;
+}
+
+p {
+      margin: 5px 20px;
+      font-size: 18px;
+      font-weight: 400;
+      color: rgb(228, 220, 211);
+}
+
+
+h1,
+h2,
+h3,
+ul {
+      font-family: Geneva, Arial, Helvetica, sans-serif;
+      margin: 1.5em 20px 0 20px;
+      color: rgb(228, 220, 211);
+}
+
+.right {
+      float: right;
+      margin: 10px 20px 10px 10px;
+      font-style: italic;
+      color: rgb(228, 220, 211);
+}
+
+.left {
+      float: left;
+      margin: 10px 10px 10px 20px;
+      font-style: italic;
+      color: rgb(228, 220, 211);
+}
+
+img {
+      height: 200px;
+      width: 200px;
+}
+
+table {
+      border: 1px double rgb(90, 89, 89);
+      width: 60%;
+      border-collapse: separate;
+      margin: auto;
+      text-align: center;
+}
+
+th {
+      background: #cfcfcf;
+      padding: 5px;
+      border: 1px solid rgb(90, 89, 89);
+}
+
+td {
+      padding: 5px;
+      border: 1px solid rgb(90, 89, 89);
+      color: rgb(228, 220, 211);
+}
+
+/*p+h3,
+p+h2,
+img+h3,
+img+h2 {
+      margin-top: 2em;
+}*/
+
+blockquote {
+      color: rgb(228, 220, 211);
+}
+
+li, a {
+      color:rgb(194, 208, 221);
+}
+
+figcaption {
+      width: 180px;
+}
